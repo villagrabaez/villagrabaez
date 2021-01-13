@@ -1,8 +1,8 @@
 ### Hola! 👋
 
-Soy Bernardino Villagra. Soy ingeniero en informática, docente y programador *web*.
+Soy Bernardino Villagra. Soy ingeniero en informática, docente y programador *web* ubicado en la ciudad de San Estanislao, Paraguay.
 
-Como **profesor** estoy enseñando en Colegios y en la Universidad Nordeste del Paraguay de mi ciudad.
+Como **profesor** estoy enseñando en varios Colegios y en la Universidad Nordeste del Paraguay de mi ciudad.
 
 Como **programador *web*** he trabajado para el Club Deportivo Santani y para la empresa Red Tapiracuai.
 
