@@ -10,12 +10,9 @@ Como **programador *web*** he trabajado para el Club Deportivo Santani y para la
 [![Msurguy's github stats](https://github-readme-stats.vercel.app/api?username=villagrabaez&theme=dark&show_icons=true)](https://github.com/villagrabaez)
 -->
 
-Las tecnologías que empleo para el desarrollo *web* son:
+#### 🛠 Skill tecnológicos y herramientas
 
-- WordPress
-- MySQL
-- Laravel
-- Vue.js
+<a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" width="32px" /></a> <a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" width="32px" /></a> <a href="https://vuejs.org/" title="VueJs"><img src="icons/vue.png" width="32px" /></a> <a href="https://getbootstrap.com/" title="Bootstrap"><img src="icons/bootstrap.jpg" width="32px" /></a> <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" width="32px" /></a> <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" width="32px" /></a> <a href="https://github.com/" title="GitHub"><img src="icons/github.png" width="32px" /></a> <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" width="32px" /></a> <a href="https://www.jetbrains.com/phpstorm/" title="PHPStorm"><img src="icons/phpstorm.png" width="32px" /></a>
 
 Puedes seguirme en las redes sociales como *@villagrabaez*
 
